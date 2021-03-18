@@ -18,3 +18,4 @@ windows/Makefile.in
 Makefile
 stamp-h1
 libtool
+/arm_debug/
